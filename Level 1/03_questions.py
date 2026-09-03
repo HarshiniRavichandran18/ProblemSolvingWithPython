@@ -1,2 +1,4 @@
-a = int(input("Enter a Integer: "))
-print("Output: ", a*3)
+def mul(n):
+    return n*3
+n = int(input("Enter a Integer: "))
+print("Output: ", mul(n))
