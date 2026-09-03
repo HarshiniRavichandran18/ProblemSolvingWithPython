@@ -1,2 +1,4 @@
-a = int(input("Enter a Integer: "))
-print("Output: ", a-5)
+def sub(n):
+    return n-5
+n = int(input("Enter a Integer: "))
+print("Output: ", sub(n))
