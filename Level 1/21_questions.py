@@ -2,7 +2,7 @@
 print the result. Do not use "if". 
 Testcase: 
 Input: 695 → Output: 690 
-Input: 182 → Output: 182 '''
+Input: 182 → Output: 182'''
 
 a = int(input("Enter a Number: "))
 def odd(a):
