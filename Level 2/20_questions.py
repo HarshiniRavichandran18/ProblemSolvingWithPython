@@ -1,3 +1,7 @@
+'''Question: Write a program to print the total number of single-digit prime numbers. 
+Testcase: 
+Output: 4 '''
+
 count = 0
 for i in range(1, 10):
     factors = 0
